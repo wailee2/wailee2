@@ -21,6 +21,8 @@ Computer Science Graduate | Fullstack Developer | Open to oppurtunities
 
 ## Projects
 - [**Loom**](https://github.com/wailee2/loom): Frontend for GreenGrass real-estate platform (Vite, Tailwind, Shadcn UI, Framer Motion).
+- [**GLass Shop**](https://glassy-five.vercel.app/): Liquid glass style website design (React, Vite, Tailwind, GSAP).
+- [**EstateSurveyor**](https://estatesurveyor.vercel.app/): Estate Surveyor portfolio (React, Vite, Tailwind, GSAP, Framer Motion).
 - [**Diabetes Prediction ML Model**](#): Machine learning project predicting diabetes in young adults.
 - [**MaiWay**](#): Service customization and delivery scheduling platform.
 
