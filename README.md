@@ -24,7 +24,6 @@ Computer Science Graduate | Fullstack Developer | Open to oppurtunities
 - [**GLass Shop**](https://glassy-five.vercel.app/): Liquid glass style website design (React, Vite, Tailwind, GSAP).
 - [**EstateSurveyor**](https://estatesurveyor.vercel.app/): Estate Surveyor portfolio (React, Vite, Tailwind, GSAP, Framer Motion).
 - [**Diabetes Prediction ML Model**](#): Machine learning project predicting diabetes in young adults.
-- [**MaiWay**](#): Service customization and delivery scheduling platform.
 
 ---
 
