@@ -5,9 +5,9 @@ Computer Science Graduate | Developer | Open to oppurtunities
 ---
 
 ## 🚀 About Me
-- Passionate about building interactive and real-life applications.
+- I enjoy building interactive and real-life applications.
 - Currently learning as much as i can.
-- Love tech & anime (Vinland Saga, Mob Psycho 100 ).
+- I like tech, anime (Vinland Saga, Mob Psycho 100 ) and other things.
 
 
 ---
