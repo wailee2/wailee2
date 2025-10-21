@@ -19,7 +19,7 @@ Computer Science Graduate | Developer | Open to oppurtunities
 - Other: Git
 ---
 
-## Projects
+## Finished and Ongoing Projects
 - [**Sproxil**](https://github.com/wailee2/sproxil): Landing page for a consumer engagement platfrom (Vite, Tailwind, GSAP, Framer Motion).
 - [**Loom**](https://github.com/wailee2/loom): Frontend for GreenGrass real-estate platform (Vite, Tailwind, Shadcn UI, Framer Motion).
 - [**GLass Shop**](https://glassy-five.vercel.app/): Liquid glass style website design (React, Vite, Tailwind, GSAP).
@@ -28,7 +28,7 @@ Computer Science Graduate | Developer | Open to oppurtunities
 
 ---
 
-## Let's Connect
+## Let's Talk
 - Email: [@feranmiayeni37@gmail.com](mailto:feranmiayeni37@gmail.com)
 - X: [@no9heroo](https://x.com/no9heroo)
 
