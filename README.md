@@ -30,5 +30,5 @@ Computer Science Graduate | Developer | Open to oppurtunities
 
 ## Let's Talk
 - Email: [@feranmiayeni37@gmail.com](mailto:feranmiayeni37@gmail.com)
-- X: [@no9heroo](https://x.com/no9heroo)
+- X: [@no9heroo](https://x.com/_no9hero_)
 
