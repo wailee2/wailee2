@@ -1,34 +1,17 @@
-# Hi, I'm feranmi (fair run me)
+# Feranmi (fair run me)
 
-Computer Science Graduate | Developer | Open to oppurtunities
-
----
-
-## 🚀 About Me
-- I enjoy building interactive and real-life applications.
-- Currently learning as much as i can.
-- I like tech, anime (Vinland Saga, Mob Psycho 100 ) and other things.
-
+ Developer | Open to oppurtunities
 
 ---
 
-##Tech Stack
-- Languages: JavaScript, Python(basic)
-- Frameworks: React + Vite, Tailwind, Framer-Motion, Shadcn, GSAP, Node
-- Databases: PostgreSQL
-- Other: Git
----
-
-## Finished and Ongoing Projects
-- [**Sproxil**](https://github.com/wailee2/sproxil): Landing page for a consumer engagement platfrom (Vite, Tailwind, GSAP, Framer Motion).
-- [**Loom**](https://github.com/wailee2/loom): Frontend for GreenGrass real-estate platform (Vite, Tailwind, Shadcn UI, Framer Motion).
-- [**GLass Shop**](https://glassy-five.vercel.app/): Liquid glass style website design (React, Vite, Tailwind, GSAP).
-- [**EstateSurveyor**](https://estatesurveyor.vercel.app/): Estate Surveyor portfolio (React, Vite, Tailwind, GSAP, Framer Motion).
-- [**Diabetes Prediction ML Model**](#): Machine learning project predicting diabetes in young adults.
+##TS
+- JavaScript
+- React, Typescript Vite, Tailwind, Framer-Motion, Shadcn, GSAP
+- PostgreSQL
 
 ---
 
-## Let's Talk
+## Contact
 - Email: [@feranmiayeni37@gmail.com](mailto:feranmiayeni37@gmail.com)
 - X: [@no9heroo](https://x.com/_no9hero_)
 
