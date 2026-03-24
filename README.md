@@ -1,6 +1,6 @@
 # Feranmi (fair run me)
 
- Developer | Open to oppurtunities
+ Developer
 
 ---
 
