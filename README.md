@@ -4,7 +4,6 @@
 
 ---
 
-##TS
 - JavaScript
 - React, Typescript Vite, Tailwind, Framer-Motion, Shadcn, GSAP
 - PostgreSQL
