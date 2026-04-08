@@ -5,7 +5,7 @@
 ---
 
 - JavaScript
-- React, Typescript Vite, Tailwind, Framer-Motion, Shadcn, GSAP
+- React, Typescript, Vite, Tailwind, Framer-Motion, Shadcn, GSAP
 - PostgreSQL
 
 ---
