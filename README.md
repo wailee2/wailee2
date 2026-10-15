@@ -11,6 +11,6 @@
 ---
 
 ## Contact
-- Email: [@feranmiayeni37@gmail.com](mailto:feranmiayeni37@gmail.com)
+- Email: [@9fernni@gmail.com](mailto:9fernni@gmail.com)
 - X: [@no9heroo](https://x.com/_no9hero_)
 
